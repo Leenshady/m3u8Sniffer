@@ -1,13 +1,15 @@
 # m3u8Sniffer
 ## 中文  
-一个可以扫描页面m3u8链接的Chrome扩展。  
+一个可以嗅探网页发起的m3u8链接请求的Chrome扩展。  
 
 ## English  
-A Chrome plug-in that scans the m3u8 link in a web page.  
+A Chrome extension that can sniff requests for m3u8 links from web pages.  
 
 
-![image](https://user-images.githubusercontent.com/27936579/109785249-e830cf80-7c46-11eb-8a89-e015ee18ae20.png)
+![image](img/img1.jpg)
 
-![image](https://user-images.githubusercontent.com/27936579/109785314-f848af00-7c46-11eb-91be-a59cb4df8b4b.png)
+![image](img/img2.jpg)
+
+![image](img/img3.png)
 
 Manifest V3版本：https://github.com/Leenshady/m3u8Sniffer2  
